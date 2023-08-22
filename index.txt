@@ -1,1 +1,1 @@
-this is my 1st software of git
+this is my version two software of git
